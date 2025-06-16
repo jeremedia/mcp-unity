@@ -11,11 +11,5 @@
     "com.unity.editorcoroutines": "1.0.0"
   },
   "type": "library",
-<<<<<<< HEAD
-  "hideInEditor": false,
-  "_fingerprint": "c7095288b3d428067b320be6bff51eb484a4541a"
-}
-=======
   "hideInEditor": false
 }
->>>>>>> c7095288b3d428067b320be6bff51eb484a4541a
