@@ -121,3 +121,4 @@ log.txt
 log.txt.meta
 Server~/build/*
 Server~/node_modules/*
+.DS_Store
